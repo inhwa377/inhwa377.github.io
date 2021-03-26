@@ -19,7 +19,7 @@ disqus_shortname: #disqus shortname
 
 user:
   name: sunHwa
-  pic: /assets/img/보리.jpg
+  pic: /assets/img/bori.jpg
   picAlt: "catbook"
   job: web developer
   aboutme: false # comment this out if you don't need the 'about' page.
