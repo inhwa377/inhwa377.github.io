@@ -1,6 +1,6 @@
 ---
 title: 백준 단계별 1 - 입출력과 사칙연산 - 2557 / 10718 / 10171 / 10172 / 1000 / 1001 / 10998 / 1008 / 10869 / 10430 / 2588
-categories: [BeakJoon]
+categories: [beakJoon]
 comments: true
 ---
 
