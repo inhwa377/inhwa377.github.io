@@ -1,35 +1,16 @@
-# Catbook
-CATbook is a CATegory-centric Jekyll theme for bloggers. There is a switch button to toggle between dark mode and light mode. This theme is originally inspired from [Book](https://github.com/kkninjae/book).
+# Blog
+이 블로그는 개인 공부 기록용 블로그 입니다.
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-1.0-green.svg)
-
-**Demo:** https://starry99.github.io/catbook/
-
-![SCREENSHOT](https://starry99.github.io/catbook/assets/img/lmode.jpg)
-![SCREENSHOT](https://starry99.github.io/catbook/assets/img/dmode.jpg)
-
-## Setup
-
-```sh
-$ git clone https://github.com/starry99/catbook
-$ jekyll serve
-
-# Now you can start customization!
-```
-
-## Make it yours
-
-If you want to create a new category, you need to create `*name*.html` in the `categories` folder. And add the following content:
-```html
----
-layout: page
-type: *name*
----
-
-{% include archive.html %}
-```
-Then the number of pages in the category will be displayed.
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
+## 목차
+### Git<br>
+### BeakJoon : 단계별로 풀어보기<br>
+1. 입출력과 사칙연산<br>
+2. if문<br>
+3. for문<br>
+4. while문<br>
+5. 1차원 배열 - 2577번 풀이 중<br>
+<br>
+### dev
+<br>
+### Etc
+<br>
