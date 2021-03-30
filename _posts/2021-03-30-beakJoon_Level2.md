@@ -1,6 +1,6 @@
 ---
 title: 백준 단계별 2 - if문 - 1330 / 9498 / 2753 / 14681 / 2884
-categories: [beakjoon]
+categories: [beakJoon]
 comments: true
 ---
 
