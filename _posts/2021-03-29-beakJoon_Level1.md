@@ -12,7 +12,6 @@ comments: true
 <br><br>
 
 ```java
-
 public class helloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
@@ -45,7 +44,7 @@ public class weLoveKriii {
 ![고양이](https://user-images.githubusercontent.com/75457050/112940570-48446400-9168-11eb-816f-0edefbc1e3ba.JPG)
 <br><br>
 
-```
+```java
 public class cat {
 	public static void main(String[] args) {
 		System.out.println("\\    /\\");
@@ -62,7 +61,7 @@ public class cat {
 ![개](https://user-images.githubusercontent.com/75457050/112940576-4c708180-9168-11eb-9861-830e704a2d02.JPG)
 <br><br>
 
-```
+```java
 public class dog {
 	public static void main(String[] args) {
 		System.out.println("|\\_/|");
@@ -80,7 +79,7 @@ public class dog {
 ![A+B](https://user-images.githubusercontent.com/75457050/112941044-f6500e00-9168-11eb-9328-58bb8a38e6d8.JPG)
 <br><br>
 
-```
+```java
 public class A_Plus_B {
 	public static void main(String[] args) {
 		int A;
@@ -102,7 +101,7 @@ public class A_Plus_B {
 ![A-B](https://user-images.githubusercontent.com/75457050/112941184-21d2f880-9169-11eb-9e01-dd667ea2bdd6.JPG)
 <br><br>
 
-```
+```java
 public class A_minus_B {
 	public static void main(String[] args) {
 		int A;
@@ -124,7 +123,7 @@ public class A_minus_B {
 ![AxB](https://user-images.githubusercontent.com/75457050/112941289-4b8c1f80-9169-11eb-8b89-3fae43415043.JPG)
 <br><br>
 
-```
+```java
 public class A_multiply_B {
 
 	public static void main(String[] args) {
@@ -149,7 +148,7 @@ public class A_multiply_B {
 ![AdivB](https://user-images.githubusercontent.com/75457050/112941541-b6d5f180-9169-11eb-8b0d-67975ad203e2.JPG)
 <br><br>
 
-```
+```java
 public class A_division_B {
 	public static void main(String[] args) {
 		int A;
@@ -172,7 +171,7 @@ public class A_division_B {
 ![사칙연산](https://user-images.githubusercontent.com/75457050/112941612-dd942800-9169-11eb-9577-993d4392fc75.JPG)
 <br><br>
 
-```
+```java
 public class fourRuleCalculations {
 	public static void main(String[] args) {
 		int A;
@@ -198,7 +197,7 @@ public class fourRuleCalculations {
 ![나머지](https://user-images.githubusercontent.com/75457050/112941687-f997c980-9169-11eb-9cff-78a5c13e4869.JPG)
 <br><br>
 
-```
+```java
 public class Remainder {
 	public static void main(String[] args) {
 		int A;
@@ -226,7 +225,7 @@ public class Remainder {
 ![곱셈](https://user-images.githubusercontent.com/75457050/112941780-1c29e280-916a-11eb-8175-44c4dcebac5e.JPG)
 <br><br>
 
-```
+```java
 public class multiply {
 	public static void main(String[] args) {
 		int A;
